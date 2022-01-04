@@ -7,3 +7,7 @@
 build/
 
 example/.env
+.fvm/
+.idea/
+.idea/libraries/Dart_SDK.xml
+.idea/workspace.xml
